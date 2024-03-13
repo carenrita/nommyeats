@@ -12,8 +12,18 @@
                     </a>
                 </li>
                 <li class="pb-1">
+                    <a href="/about">
+                        About
+                    </a>
+                </li>
+                <li class="pb-1">
                     <a href="/blog">
                         Blog
+                    </a>
+                </li>
+                <li class="pb-1">
+                    <a href="/bookatable">
+                        Book a table
                     </a>
                 </li>
                 <li class="pb-1">
@@ -66,22 +76,22 @@
             <ul class="py-4 sm:text-s pt-4 text-gray-400">
                 <li class="pb-1">
                     <a href="/">
-                        Why we love tech
+                        Why we love SOI40
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Why we love design
+                        Halal Restaurants this ramadan!
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Why to use Laravel
+                        Easter restaurant finds
                     </a>
                 </li>
                 <li class="pb-1">
                     <a href="/">
-                        Why PHP is the best
+                        Arab food in dublin 
                     </a>
                 </li>
             </ul>
